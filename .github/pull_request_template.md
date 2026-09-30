@@ -4,7 +4,7 @@
 
 ## Related Issue
 
-<!-- Link the GitHub issue(s) this PR addresses. -->
+<!-- Link the GitHub issue(s) this PR addresses. E.g. Closes #43 -->
 Closes #
 
 ## Changes
@@ -19,22 +19,22 @@ Closes #
 
 <!-- Describe how the changes have been tested. -->
 
-- [ ] Unit tests added/updated where required
-- [ ] Existing tests pass
-- [ ] Manual testing completed where required
+- [ ] Unit tests added/updated where required.
+- [ ] Existing tests pass.
+- [ ] Manual testing completed where required.
 
 **Test details:**
 
 <!-- Describe what was tested and the results. -->
 
-## Definition of Done
+## Code Reviewer Checklist
 
-- [ ] Requirements have been implemented
-- [ ] Code has been reviewed
-- [ ] Tests have been completed and are passing
-- [ ] Documentation has been updated where required
-- [ ] No known defects or outstanding issues remain
-- [ ] CI checks are passing
+- [ ] Code meets the requirements linked above.
+- [ ] Code is clear, readable, and maintainable.
+- [ ] Error handling is appropriate.
+- [ ] Edge cases and potential failure scenarios have been considered.
+- [ ] All relevant unit tests and use case tests pass and adequately cover the changes.
+- [ ] CI/CD checks pass, including SonarCloud, Build and Unit Tests.
 
 ## Additional Information
 
